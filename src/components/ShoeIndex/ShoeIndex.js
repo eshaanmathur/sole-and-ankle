@@ -40,6 +40,7 @@ const Wrapper = styled.div`
     display: flex;
     flex-direction: row-reverse;
     gap: 31px;
+    align-items: baseline;
 `;
 
 const LeftColumn = styled.div`
@@ -51,6 +52,7 @@ const MainColumn = styled.div``;
 const Header = styled.header`
     display: flex;
     justify-content: space-between;
+    align-items: baseline;
 `;
 
 const Title = styled.h2`
