@@ -43,8 +43,7 @@ const Side = styled.div`
 `;
 
 const Nav = styled.nav`
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 48px;
     display: flex;
     gap: 48px;
 `;
